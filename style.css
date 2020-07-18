@@ -1,0 +1,7 @@
+body {
+    background-color: #ffffff;
+    background-image:
+        linear-gradient(45deg, #9cc4dd 33%, transparent 33%, transparent 66%, #9cc4dd 66%), linear-gradient(135deg, #9cc4dd 33%, transparent 33%, transparent 66%, #9cc4dd 66%);
+
+    background-size: 40px 40px;
+}
